@@ -1,0 +1,1131 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"star",
+				"startingXSpeed"
+			],
+			[
+				"curre",
+				"currentCoords"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"fill",
+				"fillColor"
+			],
+			[
+				"curr",
+				"currentCoords"
+			],
+			[
+				"cu",
+				"currentCoords"
+			],
+			[
+				"rever",
+				"reverseBallXDirection"
+			],
+			[
+				"is",
+				"isBallPaddleCollision"
+			],
+			[
+				"ball",
+				"ballXCollision"
+			],
+			[
+				"bal",
+				"ballXCollision"
+			],
+			[
+				"righ",
+				"rightPaddle"
+			],
+			[
+				"right",
+				"rightPaddle"
+			],
+			[
+				"paddle",
+				"paddleBottomCoords"
+			],
+			[
+				"paddleb",
+				"paddleBottomCoords"
+			],
+			[
+				"x",
+				"xSpeed"
+			],
+			[
+				"lef",
+				"leftPaddle"
+			],
+			[
+				"left",
+				"leftPaddle"
+			],
+			[
+				"start",
+				"startingXSpeed"
+			],
+			[
+				"startin",
+				"startingYSpeed"
+			],
+			[
+				"pas",
+				"passedDomObject"
+			],
+			[
+				"re",
+				"regenerateBoard"
+			],
+			[
+				"handle",
+				"handleScoreDetection"
+			],
+			[
+				"ri",
+				"rightScore"
+			],
+			[
+				"int",
+				"intervalController"
+			],
+			[
+				"new",
+				"newTop"
+			],
+			[
+				"speed",
+				"speedReference"
+			],
+			[
+				"control",
+				"controlStack"
+			],
+			[
+				"k",
+				"paddleControlKeyPress"
+			],
+			[
+				"pa",
+				"paddleControlKeyRelease"
+			],
+			[
+				"padd",
+				"paddleControlKeyPress"
+			],
+			[
+				"cont",
+				"controlFlag"
+			],
+			[
+				"con",
+				"controlFlag"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"ini",
+				"initializeControls"
+			],
+			[
+				"up",
+				"upArrowRelease"
+			],
+			[
+				"upArr",
+				"upArrowPress"
+			],
+			[
+				"downArr",
+				"downArrowUp"
+			],
+			[
+				"down",
+				"downArrow"
+			],
+			[
+				"han",
+				"handleKeyPress"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"in",
+				"intervalController"
+			],
+			[
+				"move",
+				"moveAtSpeed"
+			],
+			[
+				"inti",
+				"initialXSpeed"
+			],
+			[
+				"an",
+				"animate"
+			],
+			[
+				"inter",
+				"intervalManager"
+			],
+			[
+				"interva",
+				"intervalCount"
+			],
+			[
+				"ex",
+				"executeAnimation"
+			],
+			[
+				"test",
+				"testAnimate"
+			],
+			[
+				"time",
+				"timeInterval"
+			],
+			[
+				"cal",
+				"calculateInitialRightPosition"
+			],
+			[
+				"get",
+				"getStartingTopPosition"
+			],
+			[
+				"getPa",
+				"getPaddleTopPosition"
+			],
+			[
+				"center",
+				"centerY"
+			],
+			[
+				"draw",
+				"drawBall"
+			],
+			[
+				"hal",
+				"halfPaddle"
+			],
+			[
+				"half",
+				"halfCanvas"
+			],
+			[
+				"side",
+				"sideMargin"
+			],
+			[
+				"default",
+				"default_value"
+			],
+			[
+				"not_found",
+				"not_found_in_trash"
+			],
+			[
+				"wp",
+				"wp_enqueue_style"
+			],
+			[
+				"Test",
+				"Testimonials"
+			],
+			[
+				"format",
+				"formatted_name"
+			],
+			[
+				"for",
+				"formatted_address"
+			],
+			[
+				"trans",
+				"translate()"
+			],
+			[
+				"am",
+				"am_pm_differentiator"
+			],
+			[
+				"form",
+				"formatted_hours"
+			],
+			[
+				"hours",
+				"hours_string"
+			],
+			[
+				"to",
+				"todays_place"
+			],
+			[
+				"today",
+				"todays_place"
+			],
+			[
+				"toda",
+				"todays_hours"
+			],
+			[
+				"tod",
+				"todays_hours"
+			],
+			[
+				"pla",
+				"place_hours"
+			],
+			[
+				"plac",
+				"place_to_work_from_today"
+			],
+			[
+				"rand",
+				"random_place_key"
+			],
+			[
+				"pl",
+				"places_to_work"
+			],
+			[
+				"jso",
+				"json_string"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"place",
+				"places_to_work"
+			],
+			[
+				"ma",
+				"moav-coffee-house"
+			],
+			[
+				"ran",
+				"random_number"
+			],
+			[
+				"des",
+				"destinationTop"
+			],
+			[
+				"de",
+				"destinationTop"
+			],
+			[
+				"scro",
+				"scrollTo"
+			],
+			[
+				"clik",
+				"clickedObject"
+			],
+			[
+				"desti",
+				"destinationURL"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"tab",
+				"table-layout"
+			],
+			[
+				"webkit-tra",
+				"-webkit-transition"
+			],
+			[
+				"date",
+				"date_strings"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"wee",
+				"week_shifts"
+			],
+			[
+				"table",
+				"table_contents"
+			],
+			[
+				"ne",
+				"new_url"
+			],
+			[
+				"high",
+				"highest_key"
+			],
+			[
+				"cel",
+				"cell_text"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"iterator",
+				"iterator_to_array"
+			],
+			[
+				"backcou",
+				"backcoun_wp"
+			],
+			[
+				"Non",
+				"NonStop"
+			],
+			[
+				"load",
+				"load_pfs_airports"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"air",
+				"airport_codes"
+			],
+			[
+				"ai",
+				"airport_codes"
+			],
+			[
+				"airpor",
+				"airport_codes"
+			],
+			[
+				"airp",
+				"airport_codes"
+			],
+			[
+				"round",
+				"round_robins"
+			],
+			[
+				"build",
+				"build_item_text"
+			],
+			[
+				"whi",
+				"which_airport"
+			],
+			[
+				"def",
+				"defaults"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"stops",
+				"stops_key"
+			],
+			[
+				"sear",
+				"search_inputs"
+			],
+			[
+				"PFS",
+				"PFS_Handlers"
+			],
+			[
+				"SErve",
+				"SERVER_NAME"
+			],
+			[
+				"PFS_",
+				"PFS_Airport_Results"
+			],
+			[
+				"airline",
+				"airline_code"
+			],
+			[
+				"nont",
+				"nonstops"
+			],
+			[
+				"get_air",
+				"get_airport"
+			],
+			[
+				"flight",
+				"flight_data"
+			],
+			[
+				"fligh",
+				"flight_data"
+			],
+			[
+				"get_cur",
+				"get_curl_string"
+			],
+			[
+				"pfs",
+				"pfs-form"
+			],
+			[
+				"pfs_air",
+				"pfs_airport_results"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "initialization.js",
+			"settings":
+			{
+				"buffer_size": 11399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2186,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "Package Control: list",
+		"selected_items":
+		[
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disco",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/RJHallsted/Documents/webserver/canvas-pong"
+	],
+	"file_history":
+	[
+		"/Users/RJHallsted/Documents/webserver/canvas-pong/.gitignore",
+		"/Users/RJHallsted/Downloads/Ftp nutriuc1@nutritionresolution.com.xml",
+		"/Users/RJHallsted/Documents/webserver/canvas-pong/.git/MERGE_MSG",
+		"/Users/RJHallsted/Documents/webserver/canvas-pong/index.html",
+		"/Users/RJHallsted/Documents/webserver/canvas-pong/README.md",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/custom-admin.css",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/front-page.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/partials/testimonials-carousel.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/style.css",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/functions.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-admin/includes/meta-boxes.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/.gitignore",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/includes/tgm-plugin-activation-config.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/scripts/index.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/includes/index.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/images/favicons/index.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/images/index.php",
+		"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-content/themes/arbor-creative/dependencies/index.php",
+		"/Users/RJHallsted/Documents/webserver/where-to-work/.gitignore",
+		"/Users/RJHallsted/Documents/webserver/where-to-work/style.css",
+		"/Users/RJHallsted/Documents/webserver/where-to-work/places.json",
+		"/Users/RJHallsted/Documents/webserver/where-to-work/index.php",
+		"/Users/RJHallsted/Documents/webserver/where-to-work/index.ph",
+		"/Users/RJHallsted/Documents/projects/rjhallsted.com/index.html",
+		"/Users/RJHallsted/Documents/projects/Influence Truth/index.html",
+		"/Users/RJHallsted/Documents/projects/rjhallsted.com/style.css",
+		"/Users/RJHallsted/Documents/projects/rjhallsted.com/scripts.js",
+		"/private/var/folders/j5/9rkxx0c53xv0gc5nlglwmg0m0000gn/T/fz3temp-1/page.base.php",
+		"/private/var/folders/j5/9rkxx0c53xv0gc5nlglwmg0m0000gn/T/fz3temp-1/functions.php",
+		"/Users/RJHallsted/Documents/projects/index.html",
+		"/Users/RJHallsted/Documents/projects/Nutrition Resolution/newsletter-header.html",
+		"/Users/RJHallsted/Desktop/tag_cloud.css",
+		"/Users/RJHallsted/Documents/webserver/schedule-script/schedule-script.php",
+		"/Users/RJHallsted/Documents/webserver/schedule-script/class-page-contents.php",
+		"/Users/RJHallsted/Documents/webserver/schedule-script/class-calendar-file.php",
+		"/Users/RJHallsted/Documents/webserver/schedule-script/RJ.ics",
+		"/Users/RJHallsted/Documents/webserver/schedule-script/class-calendar.php",
+		"/Users/RJHallsted/Documents/webserver/schedule-script/class-calendard-creator.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/README.md",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/passrider-flight-schedule.php",
+		"/Users/RJHallsted/Documents/webserver/schedule-script/test.ics",
+		"/Users/RJHallsted/Documents/webserver/schedule-script/class-calendar-creator.php",
+		"/Users/RJHallsted/Documents/Backcountry site/public_html/wp-config.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/class-pfs-result-builder.php",
+		"/Users/RJHallsted/Downloads/Ftp rj@backcountrypackrafts.com.xml",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/js/airports.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/passrider-flight-schedule.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/pfs.scss",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/js/passrider-flight-schedule.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/js/airports.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/class-pfs-form-data.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/class-pfs-airport-results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/class-pfs-handlers.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/class-pfs-airport-form.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/class-pfs-form.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/class-pfs-results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/class-pfs-result-builder.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/MileageCalculator/MileageCalculator.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/class-pfs-airport-results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/js/ajax-stuff.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/pfs/js/pfs-search-form.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/js/pfs-search-form.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/pfs.scss",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/class-pfs-airport-form.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/class-pfs-form.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/.htaccess",
+		"/Users/RJHallsted/Documents/webserver/passrider/cargo_sched.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/class-pfs-past-queries-handler.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/passrider-flight-schedule.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/class-pfs-results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/js/ajax-stuff.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/js/premium.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/js/passrider-flight-schedule.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/js/result.js",
+		"/private/var/folders/j5/9rkxx0c53xv0gc5nlglwmg0m0000gn/T/fz3temp-1/db-error.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/class-pfs-form.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/pfs.css.map",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/pfs.scss",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/class-flight-table.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/email-schedule-results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/pfs-email-styles",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/class-pfs-handlers.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/pfs.css",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/class-pfs-email-styles.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/Movefile.yml",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/class-pfs-email-styles-controller.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/class-email-table-styles.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/themes/thesis_184/custom/custom_functions.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/email-schedule-results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/js/premium.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule/README.md",
+		"/private/var/folders/p_/t14rsjwn38v2_d3fgfpkl1440000gn/T/fz3temp-1/wp-config.php",
+		"/Users/RJHallsted/Downloads/cgi-bin/wp-content/install.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/pfs.css.map",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/js/ajax-stuff.js",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/class-pfs-results.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/wp-content/plugins/passrider-flight-schedule/class-pfs-handlers.php",
+		"/Users/RJHallsted/Documents/webserver/passrider/.htaccess.old",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/Movefile.yml",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/sftp-config.json",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/pfs.scss",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/pfs.css",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/pfs.css.map",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/class-pfs-results.php",
+		"/Users/RJHallsted/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/RJHallsted/Library/Application Support/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/RJHallsted/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184/custom/custom_functions.php",
+		"/private/var/folders/p_/t14rsjwn38v2_d3fgfpkl1440000gn/T/fz3temp-1/functions.php",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184/custom/results.php",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/js/ajax-stuff.js",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184/custom/profile-page.php",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/object(SimpleXMLElement)#5 (4) {",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/class-pfs-widget.php",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/js/custom-modernizer.js",
+		"/Users/RJHallsted/Downloads/AndroidTestingFun/app/tests/src/com/example/android/testingfun/tests/lesson2/MyFirstTestActivityTest.java",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/js/passrider-flight-schedule.js",
+		"/Users/RJHallsted/Documents/Projects/Webserver/backcountry-packrafts/backcountry-packrafts.sublime-project",
+		"/private/var/folders/p_/t14rsjwn38v2_d3fgfpkl1440000gn/T/fz3temp-1/single.php",
+		"/Users/RJHallsted/Documents/Projects/rythm-correct.js/rythm-correct.js",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184/custom/results-mobile.php",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/results.php",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/airports.js",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/passrider-flight-schedule.js",
+		"/Users/RJHallsted/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/passrider-flight-schedule.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/RJHallsted/Documents/webserver/arbor-creative/wp-admin",
+			"/Users/RJHallsted/Documents/webserver/passrider/pfs",
+			"/Users/RJHallsted/Documents/webserver/passrider",
+			"/Users/RJHallsted/Documents/webserver/passrider/wp-content/themes/thesis_184/custom",
+			"/Users/RJHallsted/Documents/webserver/passrider",
+			"/Users/RJHallsted/Documents/webserver/passrider/wp-content/themes/thesis_184/custom",
+			"/Users/RJHallsted/Documents/webserver/passrider/passrider-flight-schedule",
+			"/Users/RJHallsted/Documents/webserver/passrider",
+			"/Users/RJHallsted/Downloads/cgi-bin",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule/js",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-includes",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184/custom",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/plugins/passrider-flight-schedule",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184/custom",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride/wp-content/themes/thesis_184/custom",
+			"/Users/RJHallsted/Documents/Projects/Webserver/passride",
+			"/Users/RJHallsted/Documents/Projects/Webserver/backcountry-packrafts/wp-content/plugins/woocommerce-bookings/includes",
+			"/Users/RJHallsted/Documents/Projects/Webserver/backcountry-packrafts/wp-content/plugins/woocommerce-bookings/includes/booking-form",
+			"/Users/RJHallsted/Documents/Projects/Webserver/backcountry-packrafts/wp-content/themes/dms/dms/includes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reverse",
+			"random",
+			"ball",
+			"LOG",
+			"fillColor",
+			"currentRect",
+			"cxt",
+			"ballCxt",
+			"pongCanvas",
+			"cxt",
+			"canvas",
+			"Canvas",
+			"canvas",
+			"1.75",
+			"paddleSpee",
+			"currentCoords",
+			"this",
+			"moveAtSpeed",
+			"leftPaddle",
+			"isBal",
+			"leftPaddle",
+			"getSpeedIncrease",
+			"startingXSpeed",
+			"xDirection",
+			"0.5",
+			"xDirection",
+			"startingXSpeed",
+			"stop",
+			"value",
+			"cons",
+			"cxt",
+			"20px",
+			"this",
+			"ball",
+			"end",
+			"endButton",
+			"end",
+			"ball",
+			"Paddle",
+			"leftPaddle",
+			"handleCollsionDetection",
+			"1,",
+			"Collsion",
+			"handleCollsionDetection",
+			"leftPaddle",
+			" 0,",
+			"setPaddleSpeed",
+			"leftPaddle",
+			"'down'",
+			"'up'",
+			"left",
+			"leftPaddle",
+			"this",
+			"start",
+			"this",
+			"runAnimationTimer",
+			"object",
+			"pongBall",
+			"10",
+			"quote",
+			".quote",
+			"_wp_post_thumbnail_html",
+			"post_thumbnail_meta_box",
+			"normal",
+			"'testimonial'",
+			"change_image_box",
+			"custom_post_type",
+			"22:00",
+			"::",
+			"\n	text-align: center;",
+			"open",
+			"1800",
+			"600",
+			"2400",
+			"2200",
+			"2230",
+			"600",
+			"2300",
+			"700",
+			"600",
+			"1600",
+			"place_to_work_from_today",
+			"title",
+			"2300",
+			"700",
+			"2300",
+			"700",
+			"2300",
+			"700",
+			"span",
+			"div",
+			"text-decoration",
+			"h4",
+			"h2",
+			"h1",
+			"h6",
+			"double #5D1A4D\"",
+			"display: inline-block; float: left; ",
+			"width: 20%; ",
+			"<td>",
+			"-5",
+			"dates",
+			"temp_dates",
+			"shifts",
+			"null",
+			"cells",
+			">';\n",
+			"textContent",
+			"{",
+			"page_contents_object",
+			"site_address",
+			"x",
+			"site_address",
+			"pfs-row",
+			"ol",
+			"results",
+			"airport",
+			"get_ai",
+			"get_airline",
+			"get_air",
+			"get_airport",
+			"nav_links",
+			"airport",
+			"get_airports",
+			"curl",
+			"tos",
+			"end",
+			"froms"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "initialization.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7953,
+								7953
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3703.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "canvas-pong.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"pfs/pfs.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/webserver/arbor-creative/arbor-creative-theme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
