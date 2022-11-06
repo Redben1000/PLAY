@@ -1,0 +1,134 @@
+<html>
+<head>
+	<title>Sans Simulator - HELP</title>
+
+	<link rel="stylesheet" href="css/undertale.css" />
+
+	<script type="text/javascript" src="lib/funcs.js"></script>
+	<script type="text/javascript" src="lib/three.min.js"></script>
+	<script type="text/javascript" src="lib/threex.keyboardstate.js"></script>
+	
+	<style>
+	.howtoplay{
+	text-align: center;
+	font-family: "DeterminationMono";
+	font-size: 19px;
+	}
+	.howtoplaytitle{
+	text-align: center;
+	font-family: "DeterminationMono";
+	font-size: 28px;
+	color: red;
+	}
+	.foo {
+  width: 150px;
+  height: 20px;
+  margin: 3px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+.white{
+	background: #FFFFFF;
+	color: #FFFFFF;
+}
+.blue {
+	background: #13b4ff;
+}
+.bluetext{
+	color: #13b4ff;
+}
+.orange {
+	background: #FA6800;
+	color: #FA6800;
+}
+.orangetext{
+color: #FA6800;
+}
+.redtext{
+color: #FF0000;
+}
+.red {
+	background: #FF0000;
+	color: #FF0000;
+}
+	</style>
+</head>
+
+<body>
+	<div id="gamebox">
+		<img class="sans" id="sansimage" src="img/charalaugh.gif" />
+		<div id="speech_bubble" class="closed">
+
+		</div>
+
+		<div id="gameplay_area" class="closed">
+			<div id="heartbox"></div>
+			<div>
+				<div class="stats" style="width: 80px;">SANS</div>
+				<div class="stats" style="width: 60px;">LV <span id="love">0</span></div>
+				<div class="stats">
+					<span class="tag">HP</span>
+					<div id="hp_bar">
+						<div id="hp_yellow_bar">
+						</div>
+					</div>
+					0<span id="hp">1</span> / 01
+				</div>
+				<br />
+				<div class="stats"><span class="tag">Time:</span> <span id="time">0.00</span></div>
+			</div>
+		</div>
+
+	</div>
+
+
+	<script type="text/javascript">
+		var maruju = null;
+		var textbox = null;
+
+		function start() {
+			menu.updateHeartPosition();
+			maruju = new Maruju(document.getElementById("heartbox"), 320, 120);
+			maruju.startDraw();
+		}
+
+		window.onload = start;
+	</script>
+
+	<div class="howtoplaytitle">
+		<p>
+		HELP
+		</p>
+	</div>
+	<div class="howtoplay">
+		<p>
+		Hello there! Welcome to the Sans Simulator!<br>If you can't tell by now, this is a fork of the (popular?) game 'Bad Time Simulator', which you can play right <a href="http://joezeng.github.io/endless-sans/" target="_blank">here</a>. Anyway, this game is a little different, so let's explain.
+		</p>
+	</div>
+	<div class="howtoplay">
+	<center><div class="foo white"></div></center>
+	<p>WHITE</p>
+	<p>The white obstacles damage you if you touch them.</p>
+	</div>
+	<hr>
+	<div class="howtoplay">
+	<center><div class="foo blue"></div></center>
+	<div class="bluetext"><p>BLUE</p></div>
+	<p>The blue obstacles damage you ONLY IF YOU'RE MOVING.</p>
+	</div>
+	<hr>
+	<div class="howtoplay">
+	<center><div class="foo orange"></div></center>
+	<div class="orangetext"><p>ORANGE</p></div>
+	<p>The orange obstacles damage you IF YOU'RE NOT MOVING.</p>
+	</div>
+	<div class="howtoplay">
+	<!--<center><div class="foo red"></div></center>
+	<div class="redtext"><p>RED</p></div>
+	<p>The red obstacles damage you ONLY IF YOU'RE ON THE GROUND.</p>-->
+		<p class="redtext">Use the Z button to advance text, and use the arrow keys to move and jump.</p>
+	</div>
+	<div class="howtoplaytitle">
+	<a href="game.html"><p>ALRIGHT, I'M GOOD. LET'S PLAY.</p></a>
+	</div>
+</body>
+</html>
