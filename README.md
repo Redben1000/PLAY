@@ -1,4 +1,23 @@
 # Unblocked Games Website
+
+## How to host this site for free
+1. Signup at https://oddprojects.xyz/
+2. Once your account is made login with direct admin
+3. Setup your domain (You can get a free domain at https://freenom.com/)
+4. Set the name servers to the host
+5. Open the File Manager and refresh your site
+6. If you have any issues open a ticket on the OddProjects discord server
+
+**Another method is to host it directly on github to do this:**
+1. Go to https://github.com/Animationking11/unblockedgames/fork
+2. Click "Create Fork"
+3. Then go to the settings of the project you made (Button is at the top of the screen)
+4. Select the "Pages" option
+5. Then under "Branch" where it says "None" click on it then select "Main"
+6. Click the "Save" button
+7. Now at the top of the page there will be an option to "Visit site"
+
+
 ## List of all games (via https://odd.gay/games/)
 1v1.lol
 
