@@ -14,7 +14,7 @@
 4. Select the "Pages" option
 5. Then under "Branch" where it says "None" click on it then select "Main"
 6. Click the "Save" button
-7. Now at the top of the page there will be an option to "Visit site"
+7. Now at the top of the page there will be an option to "Visit site", If you dont see the button wait 5 minutes and referesh the page 
 
 
 ## What games we have:
