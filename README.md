@@ -1,4 +1,4 @@
-## How to host this site for free
+## How to deploy this site for free
 **Method 1:**
 1. Signup at https://oddprojects.xyz/
 2. Once your account is made login with direct admin
@@ -6,6 +6,7 @@
 4. Set the name servers to the host
 5. Open the File Manager and refresh your site
 6. If you have any issues open a ticket on the OddProjects discord server
+7. Leave a star to help more people find this project ;)
 
 **Method 2:**
 1. Go to https://github.com/Animationking11/unblockedgames/fork
@@ -14,7 +15,8 @@
 4. Select the "Pages" option
 5. Then under "Branch" where it says "None" click on it then select "Main"
 6. Click the "Save" button
-7. Now at the top of the page there will be an option to "Visit site", If you dont see the button wait 5 minutes and referesh the page 
+7. Now at the top of the page there will be an option to "Visit site", If you dont see the button wait 5 minutes and referesh the page
+8. Leave a star to help more people find this project ;)
 
 
 ## What games we have:
