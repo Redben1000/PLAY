@@ -1,14 +1,4 @@
 ## How to deploy this site for free
-**Method 1:**
-1. Signup at https://oddprojects.xyz/
-2. Once your account is made login with direct admin
-3. Setup your domain (You can get a free domain at https://freenom.com/)
-4. Set the name servers to the host
-5. Open the File Manager and refresh your site
-6. If you have any issues open a ticket on the OddProjects discord server
-7. Leave a star to help more people find this project ;)
-
-**Method 2:**
 1. Go to https://github.com/Animationking11/unblockedgames/fork
 2. Click "Create Fork"
 3. Then go to the settings of the project you made (Button is at the top of the screen)
@@ -25,13 +15,23 @@
 
 2048
 
+Breaklock
+
+Breakout
+
 2048 Cupcakes
+
+Bypasser
+
+CrossyRoad
 
 Cookie Clicker
 
 Disc Us
 
 DogeMiner
+
+Doodlejump
 
 FNAF
 
@@ -40,6 +40,10 @@ FNAF2
 FNAF3
 
 FNAF4
+
+Geometrydash
+
+Hextris
 
 Fall Boys
 
@@ -53,15 +57,29 @@ Pacman
 
 Pong
 
+Pushback
+
+Racer
+
+RadiusRaid
+
 RetroBowl
+
+Retrohaunt
 
 Sans Simulator
 
 Slope
 
+SpaceInvaders
+
 Subway Surfers
 
 Tetris
+
+Towermaster
+
+Tunnelrush (NEW)
 
 Vex 3
 
@@ -71,4 +89,10 @@ Vex 5
 
 Vex 6
 
+Webretro (EMULATOR)
+
 Whac-A-Mole
+
+Wordle
+
+xx142-b2exe

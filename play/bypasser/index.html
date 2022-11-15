@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>OddUnblocker</title>
+    <link href="./css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  </head>
+  <body>
+    <header><div class="navbar" id="mynavbar">
+      <a href="" class="logo">OddUnblocker</a>
+  <a href="#" onclick="openPage(event, 'contact')"> </a>
+  <a href="#" onclick="openPage(event, 'games')" ondblclick="gframe.src = gframe.src;"> </a>
+  <a href="#" id="indexPage" onclick="openPage(event, 'index') "> </a>
+  <a href="javascript:void(0);" class="icon" onclick="borger()">
+
+    <i class="fa fa-bars"></i>
+  </a>
+</div></header>
+    <main>
+    <!-- Tab content -->
+    <!-- index-->
+<div id="index" class="tabcontent">
+  <div class="centerh containerc">
+  <h1>Get Started</h1>
+  <a href="#" onclick="openPage(event, 'selection')" class="button">Surf Freely</a>
+</div>
+</div>
+<!-- end of index-->
+<!-- games-->
+<div id="games" class="tabcontent">
+  <iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" id="gframe" src="./games.html"  style="position:fixed; top:50px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:9;"></iframe>
+</div>
+<!-- end of games-->
+<!-- contact-->
+<div id="contact" class="tabcontent">
+  <main><div class="centerh containerc">
+    <h1>The maintainer has not input their contact info, unfortunately.</h1>
+  </div>
+  </main>
+</div>
+<!-- end of contact-->
+<!--Bookmarklets-->
+<div id="bookmarklets" class="tabcontent">
+  <main><div class="centerh containerc">
+    <h1>TitaniumNetwork</h1>
+    <h2>Bookmarklets</h2>
+    <h4>These bookmarklets are little scripts you put in your bookmarks bar to do cool stuff!</h4>
+    <h4>Setup of these bookmarklets is simple and it can get past tools like Hapara Highlights!</h4>
+    <h4>Select a Bookmarklet below to view its code!</h4>
+    <a href="./public-txt/gdrive.txt" class="button">Google Drive Cloak</a>
+    <a href="./public-txt/gg.txt" class="button">GoGuardian Bypass</a>
+    <a href="./public-txt/portaprox.txt" class="button">PortaProxy</a>
+  </div>
+  </main>
+</div>
+<!--end of Bookmarklets-->
+
+
+<!-- Surf Freely-->
+<div id="selection" class="tabcontent">
+  <div class="c-box containerb">
+  <center>
+  <h1>Surf Freely</h1>
+  <h2>Browse with Freedom.</h2>
+  <h2>Type in the website you wish to unblock and press a button, to get going.</h2>
+  </center>
+  <center>
+      <!--<form action="" method="get" id="web-search-box" style="transform:scale(1.1)">-->
+      <form action="./geographic/index.php" id="web-search-box" method="post" style="transform:scale(1.1)">
+      <p>
+        <input type="text" placeholder="Enter URL" style="border:none;border-radius: 5px;padding:10px;" id="url" autocomplete="false" name="url" />&nbsp;<p></p>
+        <input type="button" id="localnode" class="selbuttonsbigger" value="Node" />
+        <input type="submit" class="selbuttons" value="PHP" />
+        <script>
+var host=location.hostname.split('.'),
+	purl=location.hostname,
+	ifr=document.getElementById('ifr');
+if(host.length==3){
+	purl=`${host[1]}.${host[2]}`;
+}
+var nde=document.getElementById('localnode'),
+    url=document.getElementById('url');
+
+nde.addEventListener('click',()=>{
+  window.location.href = "https://node."+purl+"/textbooks/" + url.value;
+});
+
+window.addEventListener('load', ()=>{
+  url.focus();
+});
+
+//these are the shortcut buttons
+var wee=(urlData=>{ // bruhhh idek how to fix this its like something with the html things but it works ig for now its 2am
+	url.value=urlData;	
+});
+        </script>
+      </p>
+    </form>
+  </center>
+  <center>
+  <h3>Info:</h3>
+    <h4>-PHP Proxy (PHP): Works with VERY basic sites.</h4>
+    <h4>-Node Unblocker (Node): Highly capable proxy that is capable of proxifying dynamic websites and games.</h4>
+    <h3>Server Status:</h3>
+    <h4>PHP-Proxy: (<span style="color: green">Online</span>)</h4>
+    <h4>Node Server: (<span style='color: red'>Offline</span>)</h4>
+  </center>
+  </div>
+</div>
+<!-- end of the proxy page-->
+
+
+    </main>
+    <footer></footer>
+  </body>
+</html>
+<!--has to be at the end to function-->
+<script src="js/primary.js"></script>
