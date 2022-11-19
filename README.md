@@ -15,11 +15,8 @@ If you want to test out our site and take a look you can do so at https://odd.ga
 
 **Other methods (They work but are not as easy):**
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-Railway)
 [![Deploy on Github Pages](https://raw.githubusercontent.com/Animationking11/Animationking11/main/githubpages.png)](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-Github-Pages)
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-Netlify)
-[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/Animationking11/unblockedgames)
-[<img src="https://camo.githubusercontent.com/aaa5efab04d69a070ff9ee9f75506b38932a7300359318135f4790c31b7dace4/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f756e6b6e6f776e626c7565677579362f4d696e6553776565706572" alt="Deploy instance on Replit" height="36px" style="margin: 20px 0;">](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-replit)
 
 ## Why pick us?
 - We offer an easy way to play games in school
