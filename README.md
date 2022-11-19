@@ -1,3 +1,6 @@
+## To test the site for yourself go to https://odd.gay/games
+If you want to test out our site and take a look you can do so at https://odd.gay/games if you find any bugs or issues put them in our [discord server](https://discord.gg/xksWyP9aJv) or [open an issue](https://github.com/Animationking11/unblockedgames/issues) so we can get it fixed as soon as possable!
+
 ## How to deploy this site for free
 **Deploy to github pages:**
 1. Go to https://github.com/Animationking11/unblockedgames/fork
@@ -18,89 +21,9 @@
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/Animationking11/unblockedgames)
 [<img src="https://camo.githubusercontent.com/aaa5efab04d69a070ff9ee9f75506b38932a7300359318135f4790c31b7dace4/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f756e6b6e6f776e626c7565677579362f4d696e6553776565706572" alt="Deploy instance on Replit" height="36px" style="margin: 20px 0;">](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-replit)
 
-## What games we have:
-1v1.lol
-
-2048
-
-Breaklock
-
-Breakout
-
-2048 Cupcakes
-
-Bypasser
-
-CrossyRoad
-
-Cookie Clicker
-
-Disc Us
-
-DogeMiner
-
-Doodlejump
-
-FNAF
-
-FNAF2
-
-FNAF3
-
-FNAF4
-
-Geometrydash
-
-Hextris
-
-Fall Boys
-
-Flappy Bird
-
-Minecraft
-
-Minecraft JS (Single player)
-
-Pacman
-
-Pong
-
-Pushback
-
-Racer
-
-RadiusRaid
-
-RetroBowl
-
-Retrohaunt
-
-Sans Simulator
-
-Slope
-
-SpaceInvaders
-
-Subway Surfers
-
-Tetris
-
-Towermaster
-
-Tunnelrush (NEW)
-
-Vex 3
-
-Vex 4
-
-Vex 5
-
-Vex 6
-
-Webretro (EMULATOR)
-
-Whac-A-Mole
-
-Wordle
-
-xx142-b2exe
+## Why pick us?
+- We offer an easy way to play games in school
+- The most popular games (1v1.lol, Retrobowl, Slope etc.)
+- A large selection 70+
+- Many updates to make the site better
+- Community Feedback, **If you have any more ideas please tell me on our discord server** https://discord.gg/xksWyP9aJv

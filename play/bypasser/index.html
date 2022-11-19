@@ -1,121 +1,53 @@
+
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>OddUnblocker</title>
-    <link href="./css/main.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  </head>
-  <body>
-    <header><div class="navbar" id="mynavbar">
-      <a href="" class="logo">OddUnblocker</a>
-  <a href="#" onclick="openPage(event, 'contact')"> </a>
-  <a href="#" onclick="openPage(event, 'games')" ondblclick="gframe.src = gframe.src;"> </a>
-  <a href="#" id="indexPage" onclick="openPage(event, 'index') "> </a>
-  <a href="javascript:void(0);" class="icon" onclick="borger()">
-
-    <i class="fa fa-bars"></i>
-  </a>
-</div></header>
-    <main>
-    <!-- Tab content -->
-    <!-- index-->
-<div id="index" class="tabcontent">
-  <div class="centerh containerc">
-  <h1>Get Started</h1>
-  <a href="#" onclick="openPage(event, 'selection')" class="button">Surf Freely</a>
-</div>
-</div>
-<!-- end of index-->
-<!-- games-->
-<div id="games" class="tabcontent">
-  <iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" id="gframe" src="./games.html"  style="position:fixed; top:50px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:9;"></iframe>
-</div>
-<!-- end of games-->
-<!-- contact-->
-<div id="contact" class="tabcontent">
-  <main><div class="centerh containerc">
-    <h1>The maintainer has not input their contact info, unfortunately.</h1>
-  </div>
-  </main>
-</div>
-<!-- end of contact-->
-<!--Bookmarklets-->
-<div id="bookmarklets" class="tabcontent">
-  <main><div class="centerh containerc">
-    <h1>TitaniumNetwork</h1>
-    <h2>Bookmarklets</h2>
-    <h4>These bookmarklets are little scripts you put in your bookmarks bar to do cool stuff!</h4>
-    <h4>Setup of these bookmarklets is simple and it can get past tools like Hapara Highlights!</h4>
-    <h4>Select a Bookmarklet below to view its code!</h4>
-    <a href="./public-txt/gdrive.txt" class="button">Google Drive Cloak</a>
-    <a href="./public-txt/gg.txt" class="button">GoGuardian Bypass</a>
-    <a href="./public-txt/portaprox.txt" class="button">PortaProxy</a>
-  </div>
-  </main>
-</div>
-<!--end of Bookmarklets-->
-
-
-<!-- Surf Freely-->
-<div id="selection" class="tabcontent">
-  <div class="c-box containerb">
-  <center>
-  <h1>Surf Freely</h1>
-  <h2>Browse with Freedom.</h2>
-  <h2>Type in the website you wish to unblock and press a button, to get going.</h2>
-  </center>
-  <center>
-      <!--<form action="" method="get" id="web-search-box" style="transform:scale(1.1)">-->
-      <form action="./geographic/index.php" id="web-search-box" method="post" style="transform:scale(1.1)">
-      <p>
-        <input type="text" placeholder="Enter URL" style="border:none;border-radius: 5px;padding:10px;" id="url" autocomplete="false" name="url" />&nbsp;<p></p>
-        <input type="button" id="localnode" class="selbuttonsbigger" value="Node" />
-        <input type="submit" class="selbuttons" value="PHP" />
-        <script>
-var host=location.hostname.split('.'),
-	purl=location.hostname,
-	ifr=document.getElementById('ifr');
-if(host.length==3){
-	purl=`${host[1]}.${host[2]}`;
-}
-var nde=document.getElementById('localnode'),
-    url=document.getElementById('url');
-
-nde.addEventListener('click',()=>{
-  window.location.href = "https://node."+purl+"/textbooks/" + url.value;
-});
-
-window.addEventListener('load', ()=>{
-  url.focus();
-});
-
-//these are the shortcut buttons
-var wee=(urlData=>{ // bruhhh idek how to fix this its like something with the html things but it works ig for now its 2am
-	url.value=urlData;	
-});
-        </script>
-      </p>
-    </form>
-  </center>
-  <center>
-  <h3>Info:</h3>
-    <h4>-PHP Proxy (PHP): Works with VERY basic sites.</h4>
-    <h4>-Node Unblocker (Node): Highly capable proxy that is capable of proxifying dynamic websites and games.</h4>
-    <h3>Server Status:</h3>
-    <h4>PHP-Proxy: (<span style="color: green">Online</span>)</h4>
-    <h4>Node Server: (<span style='color: red'>Offline</span>)</h4>
-  </center>
-  </div>
-</div>
-<!-- end of the proxy page-->
-
-
-    </main>
-    <footer></footer>
-  </body>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8">
+        <title>Proxy List</title>
+      <link rel="icon" type="image/x-icon" href="./images/profile-picture.webp">
+        <meta property="og:title" content="Your Name's Links" />
+        <meta property="og:site_name" content="yourdomain.com" />
+        <meta property="og:description" content="A list of Your Name's most important links." />
+        <link rel="stylesheet" href="css/style.css">
+        <meta name="theme-color" content="var(--bgColor)">
+    </head>
+    <body>
+            <!--Page Content Below-->
+        <img id="userPhoto" class="animated rubberBand fast" src="images/profile-picture.webp" alt="Your Name's Photo">
+        <h1 class="animated jello">Select a node...</h1>
+        <h5>About proxys: Web proxys let you access any sites that are blocked</h5>
+        <h5>NOTE: Try to pick a random one so its faster because there are less people using it.</h5>
+        <div id="links" class="animated fadeInLeft delay-1s">
+            <h1 class="animated jello">Tsunami nodes</h1>
+            <p>Speed: 9/10</p>
+            <p>UI: 8/10</p>
+            <a class="link" href="./tsunami/1.html" target="_blank">Tsunami #1 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./tsunami/2.html" target="_blank">Tsunami #2 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./tsunami/3.html" target="_blank">Tsunami #3 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./tsunami/4.html" target="_blank">Tsunami #4 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./tsunami/5.html" target="_blank">Tsunami #5 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./tsunami/6.html" target="_blank">Tsunami #6 (November 18, 2022)</a>
+            <a class="link" href="./tsunami/7.html" target="_blank">Tsunami #7 (November 18, 2022)</a>
+            <a class="link" href="./tsunami/8.html" target="_blank">Tsunami #8 (November 18, 2022)</a>
+            <a class="link" href="./tsunami/9.html" target="_blank">Tsunami #9 (November 18, 2022)</a>
+            <a class="link" href="./tsunami/10.html" target="_blank">Tsunami #10 (November 18, 2022)</a>
+            <h1 class="animated jello">Shadow nodes</h1>
+            <p>Speed: 7/10</p>
+            <p>UI: 9/10</p>
+            <a class="link" href="./shadow/1.html" target="_blank">Shadow #1 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./shadow/2.html" target="_blank">Shadow #2 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./shadow/3.html" target="_blank">Shadow #3 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./shadow/4.html" target="_blank">Shadow #4 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./shadow/5.html" target="_blank">Shadow #5 (November 18, 2022) (24/7)</a>
+            <h1 class="animated jello">Pillow nodes</h1>
+            <p>Speed: 10/10</p>
+            <p>UI: 6/10</p>
+            <a class="link" href="./pillow/1.html" target="_blank">Pillow #1 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./pillow/2.html" target="_blank">Pillow #2 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./pillow/3.html" target="_blank">Pillow #3 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./pillow/4.html" target="_blank">Pillow #4 (November 18, 2022) (24/7)</a>
+            <a class="link" href="./pillow/5.html" target="_blank">Pillow #5 (November 18, 2022) (24/7)</a>
+        </div>
+    </body>
 </html>
-<!--has to be at the end to function-->
-<script src="js/primary.js"></script>
