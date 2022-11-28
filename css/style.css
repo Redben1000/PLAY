@@ -14,7 +14,20 @@
     --firstName: 'John';
     --lastName: 'Doe';
 }
+.box-image{
 
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+
+}
+.badge {
+  background-color: BlueViolet;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
 body{
     background-color: var(--bgColor);
 }

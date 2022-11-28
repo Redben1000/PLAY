@@ -21,6 +21,6 @@ If you want to test out our site and take a look you can do so at https://odd.ga
 ## Why pick us?
 - We offer an easy way to play games in school
 - The most popular games (1v1.lol, Retrobowl, Slope etc.)
-- A large selection 70+
+- A large selection 100+
 - Many updates to make the site better
 - Community Feedback, **If you have any more ideas please tell me on our discord server** https://discord.gg/xksWyP9aJv
