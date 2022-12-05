@@ -116,7 +116,7 @@ h6{
     position: absolute;
     flex-wrap: wrap;
     left: 50%;
-    translate: -50% 0%;
+    transform: translate(-50%, 0%) !important;
 }
 
 .games a:not(.epci){
@@ -241,6 +241,14 @@ h6{
     position: absolute;
     top:5px;
     right:5px;
+    z-index:6;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+}
+
+.badge2p{
+    position: absolute;
+    top:5px;
+    left:5px;
     z-index:6;
     box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
 }
