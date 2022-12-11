@@ -1,5 +1,5 @@
-## To test the site for yourself go to https://odd.gay/games
-If you want to test out our site and take a look you can do so at https://odd.gay/games if you find any bugs or issues put them in our [discord server](https://discord.gg/xksWyP9aJv) or [open an issue](https://github.com/Animationking11/unblockedgames/issues) so we can get it fixed as soon as possable!
+## To test the site for yourself go to https://games.odd.gay/
+You can test the site at https://animationking11.github.io/unblockedgames/ and our beta site is avalable at https://games.odd.gay/ If you find any bugs or issues put them in our [discord server](https://discord.gg/xksWyP9aJv) or [open an issue](https://github.com/Animationking11/unblockedgames/issues) so we can get it fixed as soon as possable!
 
 ## How to deploy this site for free
 **Deploy to github pages:**
@@ -23,4 +23,5 @@ If you want to test out our site and take a look you can do so at https://odd.ga
 - The most popular games (1v1.lol, Retrobowl, Slope etc.)
 - A large selection 100+
 - Many updates to make the site better
-- Community Feedback, **If you have any more ideas please tell me on our discord server** https://discord.gg/xksWyP9aJv
+- Community Feedback, **If you have any more ideas please tell me on our discord server** https://discord.gg/xksWyP9aJv!
+[![Join us on Discord](https://invidget.switchblade.xyz/xksWyP9aJv?theme=dark)](https://discord.gg/xksWyP9aJv)
