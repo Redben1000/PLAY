@@ -15,8 +15,8 @@ You can test the site at https://animationking11.github.io/unblockedgames/ and o
 
 **Other methods (They work but are not as easy):**
 
-[![Deploy on Github Pages](https://raw.githubusercontent.com/Animationking11/Animationking11/main/githubpages.png)](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-Github-Pages)
-[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-Netlify)
+[![Deploy on Github Pages](https://raw.githubusercontent.com/Animationking11/Animationking11/main/githubpages.png)](https://github.com/OddPvP/unblockedgames/wiki/Deploying-to-Github-Pages)
+[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://github.com/OddPvP/unblockedgames/wiki/Deploying-to-Netlify)
 
 ## Why pick us?
 - We offer an easy way to play games in school
