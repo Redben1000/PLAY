@@ -17,6 +17,7 @@ You can test the site at https://animationking11.github.io/unblockedgames/ and o
 
 [![Deploy on Github Pages](https://raw.githubusercontent.com/Animationking11/Animationking11/main/githubpages.png)](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-Github-Pages)
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://github.com/Animationking11/unblockedgames/wiki/Deploying-to-Netlify)
+[![Deploy On Replit](https://shields.io/badge/Deploy%20on-replit-important?logo=replit&style=for-the-badge)](https://github.com/OddPvP/unblockedgames/wiki/Deploying-to-replit)
 
 ## Why pick us?
 - We offer an easy way to play games in school
@@ -24,4 +25,5 @@ You can test the site at https://animationking11.github.io/unblockedgames/ and o
 - A large selection 100+
 - Many updates to make the site better
 - Community Feedback, **If you have any more ideas please tell me on our discord server** https://discord.gg/xksWyP9aJv!
+
 [![Join us on Discord](https://invidget.switchblade.xyz/xksWyP9aJv?theme=dark)](https://discord.gg/xksWyP9aJv)
